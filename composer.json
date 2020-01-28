@@ -1,0 +1,10 @@
+{
+  "name": "smichaelsen/info-yaml",
+  "type": "typo3-cms-extension",
+  "description": "Displays the compiled Form YAML Values for a page",
+  "autoload": {
+    "psr-4": {
+      "Smic\\InfoYaml\\": "Classes/"
+    }
+  }
+}
